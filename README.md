@@ -1,373 +1,412 @@
 <div align="center">
 
+<!-- ██████████████████████████████████████████████████████████████████████
+     ASSYTE.DEV MONOCHROME / AMOLED TEMA
+     Renk paleti: #000000 zemin · #111111 yüzey · #242424 blok
+     Vurgu: #ffffff · İkincil: #888888
+     Font: Monocraft (piksel) — SIL Open Font License 1.1
+     ██████████████████████████████████████████████████████████████████████ -->
+
 <img src="https://raw.githubusercontent.com/assyte/assyte/main/dashboard.png" width="100%" alt=""/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/assyte/assyte/main/github-readme-profile.gif" width="130" alt="assyte"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=111111&center=true&vCenter=true&width=380&lines=%40assyte" alt="@assyte"/>
+<!-- @assyte — Monocraft piksel font -->
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=%40assyte" alt="@assyte"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=7&pause=99999&color=D32F2F&center=true&vCenter=true&repeat=false&width=620&lines=PLUGIN+DEV+%E2%80%A2+DISCORD+BOT+%E2%80%A2+WEB+DEV+%E2%80%A2+PROJECT+COORDINATOR" alt="title"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="160"/>
+<!-- Alt baslik — gri tonlama -->
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=13&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=720&lines=SYSTEM+ARCHITECT+%E2%80%A2+WEB+ENGINEERING+%E2%80%A2+PLUGIN+DEV+%E2%80%A2+PROJECT+COORDINATOR" alt="title"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,python,mysql,linux&theme=light&perline=7" alt="tech"/>
+<!-- Ayirici: 3D blok hissi veren kalin cizgi -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=200" width="200"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,rust,tauri,prisma,postgresql,redis,docker&theme=dark&perline=8" alt="tech2"/>
+<!-- Ana teknik yigin: koyu blok -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,java,rust,tauri&theme=dark&perline=8" alt="core-stack"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="160"/>
+<!-- Ikincil yigin: acik blok -->
+<img src="https://skillicons.dev/icons?i=tailwind,prisma,postgresql,redis,docker,electron,linux,mysql&theme=dark&perline=8" alt="secondary-stack"/>
 
 <br/>
 
-<a href="https://ass.nartforge.com"><img src="https://img.shields.io/badge/PORTFOLIO-D32F2F?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=111111"/></a>
-<a href="https://discord.gg/nartforge"><img src="https://img.shields.io/badge/DISCORD-D32F2F?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111"/></a>
-<a href="https://open.spotify.com/user/31fxfcpobhvzfhwh72clcig7cari"><img src="https://img.shields.io/badge/SPOTIFY-D32F2F?style=for-the-badge&logo=spotify&logoColor=white&labelColor=111111"/></a>
-<a href="https://instagram.com/ass"><img src="https://img.shields.io/badge/INSTAGRAM-D32F2F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111"/></a>
-<a href="https://steamcommunity.com/id/assytexd/"><img src="https://img.shields.io/badge/STEAM-D32F2F?style=for-the-badge&logo=steam&logoColor=white&labelColor=111111"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=200" width="200"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="160"/>
+<!-- Sosyal butonlari: monokrom, siyah zemin -->
+<a href="https://ass.nartforge.com"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefox-browser&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
+<a href="https://discord.gg/nartforge"><img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
+<a href="https://github.com/assyte/asencoder"><img src="https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&borderColor=FFFFFF"/></a>
+<a href="https://open.spotify.com/user/31fxfcpobhvzfhwh72clcig7cari"><img src="https://img.shields.io/badge/SPOTIFY-111111?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
+<a href="https://instagram.com/ass"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
+<a href="https://steamcommunity.com/id/assytexd/"><img src="https://img.shields.io/badge/STEAM-111111?style=for-the-badge&logo=steam&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=7&pause=99999&color=CCCCCC&center=true&vCenter=true&repeat=false&width=680&lines=%22+rather+than+someone+else%27s+vision+%E2%80%94+i+grow+my+own.+%22" alt="quote"/>
-
-<img src="https://komarev.com/ghpvc/?username=assyte&style=pixel&color=D32F2F&label=VIEWS" alt="views"/>
-
-<br/>
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     YENİ: FEATURED — YouTube serisi için vitrin
-     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## ⭐ Featured — YouTube: *Yapay Zeka ile Şunu Yaptım*
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SERİSİNİN_İLK_BÖLÜMÜ-D32F2F?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111111" alt="series"/>
-
-<br/><br/>
-
-<a href="https://github.com/assyte/asencoder"><img src="https://raw.githubusercontent.com/assyte/asencoder/main/.github/social-preview.png" width="700" alt="asEncoder — Leet 1337 Translator & AES-256 Cipher"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🔐%20AES--256--GCM%20%2B%20PBKDF2-D32F2F?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/⚡%20Next.js%2016%20%2B%20React%2019-D32F2F?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/🔒%20Static%20Export%20%E2%80%93%200%20Açık-D32F2F?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/🇹🇷%20Türkçe%20%2B%20İngilizce-D32F2F?style=for-the-badge&labelColor=111111"/>
-
-<br/><br/>
-
-**[asEncoder](https://github.com/assyte/asencoder)** — Türkçe & İngilizce metni **Leet 1337**'ye üç zorluk seviyesinde çeviren, ardından tarayıcıda **AES-256-GCM** ile şifreleyen tek sayfalık araç.
-
-- 🎯 Üç seviye: `basic` (okunur) · `medium` (kelime kısaltmaları) · `hard` (rastgele, çözülemez)
-- 🛡️ Çift çeviri koruması — `the` asla `7h15` olmaz
-- 🔑 Parolanız sunucuya **hiç gitmez**, statik HTML, 0 bağımlılık açığı
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=200" width="200"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/▶%20VİDEO_YAKINDA-D32F2F?style=for-the-badge&labelColor=111111"/>
-<img src="https://img.shields.io/badge/LIVE_DEMO-D32F2F?style=for-the-badge&labelColor=111111"/>
+<!-- Alinti: soluk gri -->
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=12&pause=99999&color=666666&center=true&vCenter=true&repeat=false&width=760&lines=%22+rather+than+someone+else%27s+vision+%E2%80%94+i+grow+my+own.%22" alt="quote"/>
 
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     PROJECTS
-     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="200"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=99999&color=D32F2F&center=true&vCenter=true&repeat=false&width=400&lines=ACTIVE+PROJECTS" alt="projects"/>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="200"/>
+<img src="https://komarev.com/ghpvc/?username=assyte&style=pixel&color=FFFFFF&label=VIEWS" alt="views"/>
 
 <br/>
 <br/>
 
-<!-- 🧠 Üretim Araçları & İş Uygulamaları ─────────────────────────── -->
-
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20PRODUCTION%20APPS%20%26%20TOOLS-111111?style=for-the-badge" alt=""/>
-
-<br/>
-<br/>
+<!-- ██████████████████████████████████████████████████████████████████████
+     FEATURED — 3D BLOK VITRINI
+     ██████████████████████████████████████████████████████████████████████ -->
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <b>📦 <a href="https://github.com/assyte/wire-stock" style="color:#D32F2F;text-decoration:none;">wire-stock</a></b>
-      <br/>
-      <sub>Elektrik-elektronik sektörü için desktop stok yönetimi — offline-first, AI destekli talep tahmini</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white"/>
-    </td>
-    <td width="50%" align="center">
-      <b>💰 <a href="https://github.com/assyte/nartos-cuzdan" style="color:#D32F2F;text-decoration:none;">nartos-cuzdan</a></b>
-      <br/>
-      <sub>Kişisel finans yönetim sistemi — AI destekli içgörüler, PWA, tamamen açık kaynak</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>🎮 <a href="https://github.com/assyte/nf-gstat" style="color:#D32F2F;text-decoration:none;">nf-gstat</a></b>
-      <br/>
-      <sub>Oyun istatistik takipçisi — Rust motorlu Tauri ile akıcı desktop uygulaması</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-    </td>
-    <td width="50%" align="center">
-      <b>🤖 <a href="https://github.com/assyte/discord-priv-bot" style="color:#D32F2F;text-decoration:none;">discord-priv-bot</a></b>
-      <br/>
-      <sub>Premium Discord botu — moderasyon, guard, kayıt, log, rapor sistemleri</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
-      <img src="https://img.shields.io/badge/EJS-A10074?style=flat"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>🎯 <a href="https://github.com/assyte/assyte.dev" style="color:#D32F2F;text-decoration:none;">assyte.dev</a></b>
-      <br/>
-      <sub>Sinematik kişisel portfolyo ve dijital merkez — Next.js, tamamen iki dilli (EN/TR)</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Responsive-111111?style=flat"/>
-    </td>
-    <td width="50%" align="center">
-      <b>🐍 <a href="https://github.com/assyte/owo-nfhunt" style="color:#D32F2F;text-decoration:none;">owo-nfhunt</a></b>
-      <br/>
-      <sub>Çoklu hesap OwO bot otomasyonu — web dashboard, Electron app, şifrelenmiş token saklama</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Fernet-111111?style=flat"/>
-    <td width="50%" align="center">
-      <b>&#128273; <a href="https://github.com/assyte/nf-token" style="color:#D32F2F;text-decoration:none;">nf-token</a></b>
-      <br/>
-      <sub>Discord token y&#246;netimi ve kimlik do&#287;rulama mikroservisi</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Discord-5865F2&amp;style=flat&amp;logo=discord&amp;logoColor=white"/>
-      <img src="https://img.shields.io/badge/Microservice-111111&amp;style=flat"/>
-      <img src="https://img.shields.io/badge/STATUS-BUILDING-D32F2F&amp;style=flat"/>
-    </td>
+    <td align="center" width="100%">
+
+<a href="https://github.com/assyte/asencoder"><img src="https://raw.githubusercontent.com/assyte/asencoder/main/.github/social-preview.png" width="720" alt="asEncoder — Leet 1337 Translator & AES-256 Cipher"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%94%90%20SER%C4%B0N%C4%B0N%C4%B0N%20%C4%B0LK%20B%C3%96L%C3%9CM%C3%9C-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=FFFFFF" alt="series"/>
+
+<br/><br/>
+
+**Yapay Zeka ile Şunu Yaptım** — YouTube serisi
+
+<br/>
+
+<a href="https://github.com/assyte/asencoder" style="color:#FFFFFF;text-decoration:none;"><b>asEncoder</b></a> — Türkçe ve İngilizce metni <b>Leet 1337</b>'ye üç zorluk seviyesinde çeviren, ardından tarayıcıda <b>AES-256-GCM</b> ile şifreleyen tek sayfalık araç.
+
+<br/>
+
+<img src="https://img.shields.io/badge/AES--256--GCM%20%2B%20PBKDF2-FFFFFF?style=flat&labelColor=000000&borderColor=333333"/>
+<img src="https://img.shields.io/badge/NEXT.JS%2016%20%2B%20REACT%2019-FFFFFF?style=flat&labelColor=000000&borderColor=333333"/>
+<img src="https://img.shields.io/badge/STATIC%20EXPORT-%20888888?style=flat&labelColor=000000&borderColor=333333"/>
+<img src="https://img.shields.io/badge/0%20VULNERABILITIES-FFFFFF?style=flat&labelColor=000000&borderColor=333333"/>
+
+<br/>
+
+<sub>Üç seviye · Çift çeviri koruması · Parola sunucuya gitmez · Monokrom blok arayüz</sub>
+
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 🖥 Minecraft Plugins ───────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
 
-<img src="https://img.shields.io/badge/%E2%9A%94%20MINECRAFT%20PLUGINS-111111?style=for-the-badge" alt=""/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=ACTIVE+PROJECTS" alt="projects"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
+
+<br/>
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████████████
+     BOLUM 1 — URETIM UYGULAMALARI
+     ██████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://img.shields.io/badge/%E2%9A%99%20PRODUCTION%20APPLICATIONS-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
 
 <br/>
 <br/>
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <b>👑 <a href="https://github.com/assyte/asKingdomX" style="color:#D32F2F;text-decoration:none;">asKingdomX</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/wire-stock" style="color:#FFFFFF;text-decoration:none;">▣ wire-stock</a></b>
       <br/>
-      <sub>Premium krallık yönetimi & PvP — bölge yakalama, Crown War, ekonomi, görev, boss sistemi</sub>
+      <sub>Elektrik-elektronik sektörü için desktop stok yönetimi<br/>offline-first · AI destekli talep tahmini</sub>
       <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Paper_1.21-1DE9B6?style=flat"/>
-      <img src="https://img.shields.io/badge/988%20KB%20LOC-D32F2F?style=flat"/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/NestJS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Turborepo-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
-    <td width="50%" align="center">
-      <b>⚙️ <a href="https://github.com/assyte/asAPI" style="color:#D32F2F;text-decoration:none;">asAPI</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/nartos-cuzdan" style="color:#FFFFFF;text-decoration:none;">▣ nartos-cuzdan</a></b>
       <br/>
-      <sub>Tüm NartForge pluginlerini besleyen çekirdek kütüphane — veritabanı soyutlaması, event sistemi</sub>
+      <sub>Kişisel finans yönetim sistemi<br/>AI destekli içgörüler · PWA · açık kaynak</sub>
       <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Core_Library-111111?style=flat"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>🎁 <a href="https://github.com/assyte/asGiveAway" style="color:#D32F2F;text-decoration:none;">asGiveAway</a></b>
-      <br/>
-      <sub>Otomatik çekiliş sistemi — crate entegrasyonu, Discord webhook bildirimleri</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Paper_1.21%2B-1DE9B6?style=flat"/>
-    </td>
-    <td width="50%" align="center">
-      <b>✅ <a href="https://github.com/assyte/asVerifyDC" style="color:#D32F2F;text-decoration:none;">asVerifyDC</a></b>
-      <br/>
-      <sub>Discord doğrulama köprüsü — Minecraft whitelist ile Discord hesabı eşleme, rol senkronizasyonu</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/NestJS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/React-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/PWA-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <b>🛡️ <a href="https://github.com/assyte/asModeration" style="color:#D32F2F;text-decoration:none;">asModeration</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/nf-gstat" style="color:#FFFFFF;text-decoration:none;">▣ nf-gstat</a></b>
+      <br/>
+      <sub>Oyun istatistik takipçisi<br/>Rust motorlu Tauri desktop uygulaması</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Rust-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Tauri-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/React-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/SQLite-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/assyte.dev" style="color:#FFFFFF;text-decoration:none;">▣ assyte.dev</a></b>
+      <br/>
+      <sub>Sinematik kişisel portfolyo ve dijital merkez<br/>AMOLED monokrom · Minecraft 3D blok · iki dilli</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js%2016-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Tailwind%204-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Motion-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Vitest-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/discord-priv-bot" style="color:#FFFFFF;text-decoration:none;">▣ discord-priv-bot</a></b>
+      <br/>
+      <sub>Premium Discord botu<br/>moderasyon · guard · kayıt · log · rapor</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Discord-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/EJS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/owo-nfhunt" style="color:#FFFFFF;text-decoration:none;">▣ owo-nfhunt</a></b>
+      <br/>
+      <sub>Çoklu hesap OwO bot otomasyonu<br/>web dashboard · Electron · şifrelenmiş token</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Electron-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Fernet-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████████████
+     BOLUM 2 — MINECRAFT PLUGINLERI
+     ██████████████████████████████████████████████████████████████████████ -->
+
+<img src="https://img.shields.io/badge/%E2%9A%94%20MINECRAFT%20PLUGINS-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
+
+<br/>
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/asKingdomX" style="color:#FFFFFF;text-decoration:none;">▣ asKingdomX</a></b>
+      <br/>
+      <sub>Premium krallık yönetimi ve PvP<br/>bölge yakalama · Crown War · ekonomi · boss</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Paper%201.21-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/988%20KB-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/asAPI" style="color:#FFFFFF;text-decoration:none;">▣ asAPI</a></b>
+      <br/>
+      <sub>Tüm NartForge pluginlerini besleyen çekirdek kütüphane<br/>veritabanı soyutlaması · event sistemi</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Core%20Library-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/asGiveAway" style="color:#FFFFFF;text-decoration:none;">▣ asGiveAway</a></b>
+      <br/>
+      <sub>Otomatik çekiliş sistemi<br/>crate entegrasyonu · Discord webhook</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Paper%201.21%2B-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/asVerifyDC" style="color:#FFFFFF;text-decoration:none;">▣ asVerifyDC</a></b>
+      <br/>
+      <sub>Discord doğrulama köprüsü<br/>whitelist eşleme · rol senkronizasyonu</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Discord-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/asModeration" style="color:#FFFFFF;text-decoration:none;">▣ asModeration</a></b>
       <br/>
       <sub>Gelişmiş moderasyon ve ceza yönetim sistemi</sub>
       <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/JavaScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
-    <td width="50%" align="center">
-      <b>📚 <a href="https://github.com/assyte/plugin-wiki" style="color:#D32F2F;text-decoration:none;">plugin-wiki</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/plugin-wiki" style="color:#FFFFFF;text-decoration:none;">▣ plugin-wiki</a></b>
       <br/>
-      <sub>Tüm NartForge pluginleri için merkezi dokümantasyon merkezi</sub>
+      <sub>Tüm NartForge pluginleri için merkezi dokümantasyon</sub>
       <br/>
-      <img src="https://img.shields.io/badge/Docs-111111?style=flat&logo=readthedocs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docs-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 🖥 Sistem & Altyapı ──────────────────────────────────────────── -->
+<!-- ██████████████████████████████████████████████████████████████████████
+     BOLUM 3 — SISTEM & ALTYAPI
+     ██████████████████████████████████████████████████████████████████████ -->
 
-<img src="https://img.shields.io/badge/%F0%9F%8B%BE%20SYSTEM%20%26%20INFRASTRUCTURE-111111?style=for-the-badge" alt=""/>
+<img src="https://img.shields.io/badge/%F0%9F%8B%BE%20SYSTEM%20%26%20INFRASTRUCTURE-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
 
 <br/>
 <br/>
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <b>🐧 <a href="https://github.com/assyte/NartOS" style="color:#D32F2F;text-decoration:none;">NartOS</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/NartOS" style="color:#FFFFFF;text-decoration:none;">▣ NartOS</a></b>
       <br/>
-      <sub>NartForge sunucu altyapısı ve Minecraft hosting için optimize edilmiş özel Linux tabanlı işletim sistemi</sub>
+      <sub>NartForge sunucu altyapısı ve Minecraft hosting<br/>için optimize edilmiş özel Linux tabanlı işletim sistemi</sub>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/1.9%20M%20LOC-D32F2F?style=flat"/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Linux-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Docker-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/1.9M%20LOC-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
-    <td width="50%" align="center">
-      <b>🏗️ <a href="https://github.com/assyte/kingdommc-server" style="color:#D32F2F;text-decoration:none;">kingdommc-server</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/kingdommc-server" style="color:#FFFFFF;text-decoration:none;">▣ kingdommc-server</a></b>
       <br/>
-      <sub>KingdomMC sunucu altyapısı — dağıtım betikleri, yönetim araçları, GLSL shader desteği</sub>
+      <sub>KingdomMC sunucu altyapısı<br/>dağıtım betikleri · yönetim araçları · GLSL shader</sub>
       <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GLSL-5686A5?style=flat"/>
-      <img src="https://img.shields.io/badge/25%20MB-D32F2F?style=flat"/>
+      <img src="https://img.shields.io/badge/Python-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/GLSL-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/25%20MB-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <b>🎫 <a href="https://github.com/assyte/nart-licanse" style="color:#D32F2F;text-decoration:none;">nart-licanse</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/nart-licanse" style="color:#FFFFFF;text-decoration:none;">▣ nart-licanse</a></b>
       <br/>
       <sub>Tüm NartForge ürünleri için merkezi lisans altyapısı</sub>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Licensing-111111?style=flat"/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Licensing-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
-    <td width="50%" align="center">
-      <b>🌐 <a href="https://github.com/assyte/as-web" style="color:#D32F2F;text-decoration:none;">as-web</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/nf-token" style="color:#FFFFFF;text-decoration:none;">▣ nf-token</a></b>
       <br/>
-      <sub>Kişisel portfolyo & geliştirici web sitesi — NartForge ekosistem projelerini sergiler</sub>
+      <sub>Discord token yönetimi ve kimlik doğrulama mikroservisi</sub>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/119%20MB-D32F2F?style=flat"/>
+      <img src="https://img.shields.io/badge/Discord-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Microservice-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/as-web" style="color:#FFFFFF;text-decoration:none;">▣ as-web</a></b>
+      <br/>
+      <sub>Kişisel portfolyo ve geliştirici web sitesi<br/>NartForge ekosistem projelerini sergiler</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/CSS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/119%20MB-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+    </td>
+    <td width="50%" align="center" bgcolor="#0a0a0a"></td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 📊 Araştırma & Deneysel ──────────────────────────────────────── -->
+<!-- ██████████████████████████████████████████████████████████████████████
+     BOLUM 4 — ARASTIRMA & DENEYSEL
+     ██████████████████████████████████████████████████████████████████████ -->
 
-<img src="https://img.shields.io/badge/%F0%9F%94%8D%20RESEARCH%20%26%20EXPERIMENTAL-111111?style=for-the-badge" alt=""/>
+<img src="https://img.shields.io/badge/%F0%9F%94%8D%20RESEARCH%20%26%20EXPERIMENTAL-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
 
 <br/>
 <br/>
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <b>🛒 <a href="https://github.com/assyte/indirim-yolu" style="color:#D32F2F;text-decoration:none;">indirim-yolu</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/indirim-yolu" style="color:#FFFFFF;text-decoration:none;">▣ indirim-yolu</a></b>
       <br/>
-      <sub>İndirim ve fırsat toplama platformu — fiyat düşüşü, kupon, kampanya takibi</sub>
+      <sub>İndirim ve fırsat toplama platformu<br/>fiyat düşüşü · kupon · kampanya takibi</sub>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ALPHA-D32F2F?style=flat"/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/ALPHA-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
-    <td width="50%" align="center">
-      <b>🤝 <a href="https://github.com/assyte/AI-Commerce-Engineering-Kit" style="color:#D32F2F;text-decoration:none;">AI-Commerce-Engineering-Kit</a></b>
+    <td width="50%" align="center" bgcolor="#0a0a0a">
+      <b><a href="https://github.com/assyte/AI-Commerce-Engineering-Kit" style="color:#FFFFFF;text-decoration:none;">▣ AI-Commerce-Engineering-Kit</a></b>
       <br/>
-      <sub>AI destekli ticaret ve mühendislik otomasyon kiti — akıllı fiyatlandırma, stok tahmini</sub>
+      <sub>AI destekli ticaret ve mühendislik otomasyon kiti<br/>akıllı fiyatlandırma · stok tahmini</sub>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-111111?style=flat"/>
-      <img src="https://img.shields.io/badge/RESEARCH-D32F2F?style=flat"/>
+      <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/AI-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 📈 Stats ─────────────────────────────────────────────────────── -->
+<!-- ██████████████████████████████████████████████████████████████████████
+     STATS
+     ██████████████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="200"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
 
 <br/>
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=assyte&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333333&icon_color=D32F2F&count_private=true" alt="stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=assyte&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&icon_color=FFFFFF&border_color=242424&count_private=true" alt="stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=assyte&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=333333&icon_color=D32F2F&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR" alt="lang-stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=assyte&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&icon_color=FFFFFF&border_color=242424&count_private=true&include_all_commits=true" alt="lang-stats"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=assyte&theme=dark&hideBorder=true&stroke=D32F2F&fire=D32F2F&currStreakNum=ffffff&sideLabels=CCCCCC&currStreakLabel=ffffff&dates=666666" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=assyte&theme=dark&hideBorder=true&stroke=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=888888&currStreakLabel=FFFFFF&dates=666666" alt="streak"/>
 
 <br/>
 
+<!-- Alt rozetler: monokrom -->
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/📦%20Projeler-32-D32F2F?style=for-the-badge&labelColor=111111" alt="projects"/>
+      <img src="https://img.shields.io/badge/32%20PROJELER-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="projects"/>
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/💻%20Dil-TypeScript%20%2B%20Java%20%2B%20Python-D32F2F?style=for-the-badge&labelColor=111111" alt="langs"/>
+      <img src="https://img.shields.io/badge/TYPESCRIPT%20%2B%20JAVA%20%2B%20PYTHON%20%2B%20RUST-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="langs"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎮%20NartForge%20Ekosistemi-D32F2F?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111" alt="nartforge"/>
+      <img src="https://img.shields.io/badge/NARTFORGE%20ECOSYSTEM-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=FFFFFF" alt="nartforge"/>
+      &nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/OPEN%20SOURCE-MIT-DDDDDD?style=for-the-badge&labelColor=000000&borderColor=2a2a2a" alt="license"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D32F2F&height=3" width="200"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
+
+<br/>
+
+<sub>Monocraft font — SIL Open Font License 1.1 · Tasarım dili: <a href="https://assyte.dev" style="color:#888888;">assyte.dev</a></sub>
 
 </div>
