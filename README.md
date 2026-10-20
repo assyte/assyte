@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ██████████████████████████████████████████████████████████████████████
-     ASSYTE.DEV MONOCHROME / AMOLED TEMA
-     Renk paleti: #000000 zemin · #111111 yüzey · #242424 blok
-     Vurgu: #ffffff · İkincil: #888888
-     Font: Monocraft (piksel) — SIL Open Font License 1.1
+     ASSYTE.DEV MONOCHROME / AMOLED DESIGN LANGUAGE
+     Palette: #000000 canvas · #0a0a0a surface · #242424 block edge
+     Foreground: #ffffff primary · #888888 secondary
+     Typeface: Monocraft (pixel) — SIL Open Font License 1.1
      ██████████████████████████████████████████████████████████████████████ -->
 
 <img src="https://raw.githubusercontent.com/assyte/assyte/main/dashboard.png" width="100%" alt=""/>
@@ -15,25 +15,20 @@
 
 <br/>
 
-<!-- @assyte — Monocraft piksel font -->
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=%40assyte" alt="@assyte"/>
 
-<!-- Alt baslik — gri tonlama -->
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=13&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=720&lines=SYSTEM+ARCHITECT+%E2%80%A2+WEB+ENGINEERING+%E2%80%A2+PLUGIN+DEV+%E2%80%A2+PROJECT+COORDINATOR" alt="title"/>
 
 <br/>
 
-<!-- Ayirici: 3D blok hissi veren kalin cizgi -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=200" width="200"/>
 
 <br/>
 
-<!-- Ana teknik yigin: koyu blok -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,java,rust,tauri&theme=dark&perline=8" alt="core-stack"/>
 
 <br/>
 
-<!-- Ikincil yigin: acik blok -->
 <img src="https://skillicons.dev/icons?i=tailwind,prisma,postgresql,redis,docker,electron,linux,mysql&theme=dark&perline=8" alt="secondary-stack"/>
 
 <br/>
@@ -42,7 +37,6 @@
 
 <br/>
 
-<!-- Sosyal butonlari: monokrom, siyah zemin -->
 <a href="https://ass.nartforge.com"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefox-browser&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
 <a href="https://discord.gg/nartforge"><img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000&borderColor=242424"/></a>
 <a href="https://github.com/assyte/asencoder"><img src="https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&borderColor=FFFFFF"/></a>
@@ -56,7 +50,6 @@
 
 <br/>
 
-<!-- Alinti: soluk gri -->
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=12&pause=99999&color=666666&center=true&vCenter=true&repeat=false&width=760&lines=%22+rather+than+someone+else%27s+vision+%E2%80%94+i+grow+my+own.%22" alt="quote"/>
 
 <img src="https://komarev.com/ghpvc/?username=assyte&style=pixel&color=FFFFFF&label=VIEWS" alt="views"/>
@@ -65,7 +58,7 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████████████
-     FEATURED — 3D BLOK VITRINI
+     FEATURED
      ██████████████████████████████████████████████████████████████████████ -->
 
 <table align="center">
@@ -76,15 +69,13 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%94%90%20SER%C4%B0N%C4%B0N%C4%B0N%20%C4%B0LK%20B%C3%96L%C3%9CM%C3%9C-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=FFFFFF" alt="series"/>
-
-<br/><br/>
-
-**Yapay Zeka ile Şunu Yaptım** — YouTube serisi
+<b>asEncoder</b> — Leet 1337 Translator &amp; AES-256 Cipher
 
 <br/>
 
-<a href="https://github.com/assyte/asencoder" style="color:#FFFFFF;text-decoration:none;"><b>asEncoder</b></a> — Türkçe ve İngilizce metni <b>Leet 1337</b>'ye üç zorluk seviyesinde çeviren, ardından tarayıcıda <b>AES-256-GCM</b> ile şifreleyen tek sayfalık araç.
+A single-page tool that converts Turkish and English text into Leet 1337
+across three difficulty levels, then encrypts the result with AES-256-GCM
+entirely inside the browser.
 
 <br/>
 
@@ -95,7 +86,11 @@
 
 <br/>
 
-<sub>Üç seviye · Çift çeviri koruması · Parola sunucuya gitmez · Monokrom blok arayüz</sub>
+<sub>Three difficulty levels · Double-translation guard · Password never leaves the browser · Zero runtime dependencies</sub>
+
+<br/>
+
+<a href="https://github.com/assyte/asencoder" style="color:#888888;">View repository →</a>
 
     </td>
   </tr>
@@ -117,7 +112,7 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████████████
-     BOLUM 1 — URETIM UYGULAMALARI
+     PRODUCTION APPLICATIONS
      ██████████████████████████████████████████████████████████████████████ -->
 
 <img src="https://img.shields.io/badge/%E2%9A%99%20PRODUCTION%20APPLICATIONS-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
@@ -130,7 +125,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/wire-stock" style="color:#FFFFFF;text-decoration:none;">▣ wire-stock</a></b>
       <br/>
-      <sub>Elektrik-elektronik sektörü için desktop stok yönetimi<br/>offline-first · AI destekli talep tahmini</sub>
+      <sub>Desktop inventory management for the electrical supply chain<br/>offline-first · AI-assisted demand forecasting</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/NestJS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -140,7 +135,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/nartos-cuzdan" style="color:#FFFFFF;text-decoration:none;">▣ nartos-cuzdan</a></b>
       <br/>
-      <sub>Kişisel finans yönetim sistemi<br/>AI destekli içgörüler · PWA · açık kaynak</sub>
+      <sub>Personal finance management system<br/>AI-assisted insights · PWA · fully open source</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/NestJS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -152,7 +147,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/nf-gstat" style="color:#FFFFFF;text-decoration:none;">▣ nf-gstat</a></b>
       <br/>
-      <sub>Oyun istatistik takipçisi<br/>Rust motorlu Tauri desktop uygulaması</sub>
+      <sub>Cross-game statistics tracker<br/>Rust-powered Tauri desktop application</sub>
       <br/>
       <img src="https://img.shields.io/badge/Rust-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Tauri-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -162,7 +157,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/assyte.dev" style="color:#FFFFFF;text-decoration:none;">▣ assyte.dev</a></b>
       <br/>
-      <sub>Sinematik kişisel portfolyo ve dijital merkez<br/>AMOLED monokrom · Minecraft 3D blok · iki dilli</sub>
+      <sub>Cinematic personal portfolio and digital headquarters<br/>AMOLED monochrome · 3D block material · bilingual</sub>
       <br/>
       <img src="https://img.shields.io/badge/Next.js%2016-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Tailwind%204-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -174,7 +169,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/discord-priv-bot" style="color:#FFFFFF;text-decoration:none;">▣ discord-priv-bot</a></b>
       <br/>
-      <sub>Premium Discord botu<br/>moderasyon · guard · kayıt · log · rapor</sub>
+      <sub>Premium Discord bot<br/>moderation · guard · registration · logging · reporting</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Discord-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -183,7 +178,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/owo-nfhunt" style="color:#FFFFFF;text-decoration:none;">▣ owo-nfhunt</a></b>
       <br/>
-      <sub>Çoklu hesap OwO bot otomasyonu<br/>web dashboard · Electron · şifrelenmiş token</sub>
+      <sub>Multi-account OwO bot automation framework<br/>web dashboard · Electron app · encrypted token storage</sub>
       <br/>
       <img src="https://img.shields.io/badge/Python-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Electron-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -195,7 +190,7 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████████████
-     BOLUM 2 — MINECRAFT PLUGINLERI
+     MINECRAFT PLUGINS
      ██████████████████████████████████████████████████████████████████████ -->
 
 <img src="https://img.shields.io/badge/%E2%9A%94%20MINECRAFT%20PLUGINS-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
@@ -208,7 +203,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/asKingdomX" style="color:#FFFFFF;text-decoration:none;">▣ asKingdomX</a></b>
       <br/>
-      <sub>Premium krallık yönetimi ve PvP<br/>bölge yakalama · Crown War · ekonomi · boss</sub>
+      <sub>Premium kingdom management and PvP<br/>territory capture · Crown War · economy · boss system</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Paper%201.21-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -217,7 +212,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/asAPI" style="color:#FFFFFF;text-decoration:none;">▣ asAPI</a></b>
       <br/>
-      <sub>Tüm NartForge pluginlerini besleyen çekirdek kütüphane<br/>veritabanı soyutlaması · event sistemi</sub>
+      <sub>Core library powering every NartForge plugin<br/>database abstraction · event system · shared utilities</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Core%20Library-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -227,7 +222,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/asGiveAway" style="color:#FFFFFF;text-decoration:none;">▣ asGiveAway</a></b>
       <br/>
-      <sub>Otomatik çekiliş sistemi<br/>crate entegrasyonu · Discord webhook</sub>
+      <sub>Automated giveaway system<br/>crate integration · Discord webhook notifications</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Paper%201.21%2B-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -235,7 +230,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/asVerifyDC" style="color:#FFFFFF;text-decoration:none;">▣ asVerifyDC</a></b>
       <br/>
-      <sub>Discord doğrulama köprüsü<br/>whitelist eşleme · rol senkronizasyonu</sub>
+      <sub>Discord verification bridge<br/>whitelist linking · role synchronisation</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Discord-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -245,14 +240,14 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/asModeration" style="color:#FFFFFF;text-decoration:none;">▣ asModeration</a></b>
       <br/>
-      <sub>Gelişmiş moderasyon ve ceza yönetim sistemi</sub>
+      <sub>Advanced moderation and punishment management</sub>
       <br/>
       <img src="https://img.shields.io/badge/JavaScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/plugin-wiki" style="color:#FFFFFF;text-decoration:none;">▣ plugin-wiki</a></b>
       <br/>
-      <sub>Tüm NartForge pluginleri için merkezi dokümantasyon</sub>
+      <sub>Central documentation hub for all NartForge plugins</sub>
       <br/>
       <img src="https://img.shields.io/badge/Docs-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
@@ -262,7 +257,7 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████████████
-     BOLUM 3 — SISTEM & ALTYAPI
+     SYSTEM & INFRASTRUCTURE
      ██████████████████████████████████████████████████████████████████████ -->
 
 <img src="https://img.shields.io/badge/%F0%9F%8B%BE%20SYSTEM%20%26%20INFRASTRUCTURE-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
@@ -275,7 +270,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/NartOS" style="color:#FFFFFF;text-decoration:none;">▣ NartOS</a></b>
       <br/>
-      <sub>NartForge sunucu altyapısı ve Minecraft hosting<br/>için optimize edilmiş özel Linux tabanlı işletim sistemi</sub>
+      <sub>Custom Linux-based operating system<br/>optimised for NartForge hosting infrastructure</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Linux-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -285,7 +280,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/kingdommc-server" style="color:#FFFFFF;text-decoration:none;">▣ kingdommc-server</a></b>
       <br/>
-      <sub>KingdomMC sunucu altyapısı<br/>dağıtım betikleri · yönetim araçları · GLSL shader</sub>
+      <sub>KingdomMC server infrastructure<br/>deployment scripts · management tooling · GLSL shaders</sub>
       <br/>
       <img src="https://img.shields.io/badge/Python-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/GLSL-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -296,7 +291,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/nart-licanse" style="color:#FFFFFF;text-decoration:none;">▣ nart-licanse</a></b>
       <br/>
-      <sub>Tüm NartForge ürünleri için merkezi lisans altyapısı</sub>
+      <sub>Central license infrastructure for the whole NartForge product line</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Licensing-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -304,7 +299,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/nf-token" style="color:#FFFFFF;text-decoration:none;">▣ nf-token</a></b>
       <br/>
-      <sub>Discord token yönetimi ve kimlik doğrulama mikroservisi</sub>
+      <sub>Discord token management and authentication microservice</sub>
       <br/>
       <img src="https://img.shields.io/badge/Discord-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/Microservice-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -314,7 +309,7 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/as-web" style="color:#FFFFFF;text-decoration:none;">▣ as-web</a></b>
       <br/>
-      <sub>Kişisel portfolyo ve geliştirici web sitesi<br/>NartForge ekosistem projelerini sergiler</sub>
+      <sub>Personal portfolio and developer website<br/>showcasing the NartForge ecosystem</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/CSS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -327,7 +322,7 @@
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████████████
-     BOLUM 4 — ARASTIRMA & DENEYSEL
+     RESEARCH & EXPERIMENTAL
      ██████████████████████████████████████████████████████████████████████ -->
 
 <img src="https://img.shields.io/badge/%F0%9F%94%8D%20RESEARCH%20%26%20EXPERIMENTAL-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt=""/>
@@ -340,15 +335,15 @@
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/indirim-yolu" style="color:#FFFFFF;text-decoration:none;">▣ indirim-yolu</a></b>
       <br/>
-      <sub>İndirim ve fırsat toplama platformu<br/>fiyat düşüşü · kupon · kampanya takibi</sub>
+      <sub>Discount and deal aggregation platform<br/>price-drop · coupon · promotion tracking</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
-      <img src="https://img.shields.io/badge/ALPHA-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
+      <img src="https://img.shields.io/badge/Alpha-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
       <b><a href="https://github.com/assyte/AI-Commerce-Engineering-Kit" style="color:#FFFFFF;text-decoration:none;">▣ AI-Commerce-Engineering-Kit</a></b>
       <br/>
-      <sub>AI destekli ticaret ve mühendislik otomasyon kiti<br/>akıllı fiyatlandırma · stok tahmini</sub>
+      <sub>AI-powered commerce and engineering automation kit<br/>intelligent pricing · inventory forecasting</sub>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
       <img src="https://img.shields.io/badge/AI-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
@@ -383,11 +378,10 @@
 
 <br/>
 
-<!-- Alt rozetler: monokrom -->
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/32%20PROJELER-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="projects"/>
+      <img src="https://img.shields.io/badge/32%20PROJECTS-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="projects"/>
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/TYPESCRIPT%20%2B%20JAVA%20%2B%20PYTHON%20%2B%20RUST-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="langs"/>
     </td>
@@ -396,7 +390,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/NARTFORGE%20ECOSYSTEM-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=FFFFFF" alt="nartforge"/>
       &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/OPEN%20SOURCE-MIT-DDDDDD?style=for-the-badge&labelColor=000000&borderColor=2a2a2a" alt="license"/>
+      <img src="https://img.shields.io/badge/OPEN%20SOURCE%20%E2%80%94%20MIT-DDDDDD?style=for-the-badge&labelColor=000000&borderColor=2a2a2a" alt="license"/>
     </td>
   </tr>
 </table>
@@ -407,6 +401,6 @@
 
 <br/>
 
-<sub>Monocraft font — SIL Open Font License 1.1 · Tasarım dili: <a href="https://assyte.dev" style="color:#888888;">assyte.dev</a></sub>
+<sub>Monocraft typeface — SIL Open Font License 1.1 · Design language: <a href="https://assyte.dev" style="color:#888888;">assyte.dev</a></sub>
 
 </div>
