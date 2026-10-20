@@ -472,6 +472,18 @@ entirely inside the browser.
 
 <img src="https://raw.githubusercontent.com/assyte/assyte/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution-snake"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=NOW+PLAYING" alt="now-playing"/>
+
+<br/>
+
+<a href="https://open.spotify.com/user/31fxfcpobhvzfhwh72clcig7cari">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fxfcpobhvzfhwh72clcig7cari&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interlude=true&bar_color=888888&bar_count=8&redirect=false" width="420" alt="spotify-now-playing"/>
+</a>
+
+<br/>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
