@@ -55,6 +55,49 @@
 <img src="https://komarev.com/ghpvc/?username=assyte&style=pixel&color=FFFFFF&label=VIEWS" alt="views"/>
 
 <br/>
+
+<img src="https://img.shields.io/github/followers/assyte?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=111111" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/assyte?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=111111" alt="stars"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=ABOUT+ME" alt="about"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
+
+<br/><br/>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="left" bgcolor="#0a0a0a" valign="top">
+      <b>▣ CURRENTLY</b>
+      <br/>
+      <sub>🔭 Working on · <b>NartForge ecosystem</b> + <b>wire-stock</b><br/>
+      🌱 Learning · <b>Rust</b> · advanced system architecture<br/>
+      👯 Open to · commissions · collaborations · open source<br/>
+      ⚡ Building · Paper 1.21 plugins · Tauri desktop apps</sub>
+    </td>
+    <td width="50%" align="left" bgcolor="#0a0a0a" valign="top">
+      <b>▣ SYSTEM.INFO</b>
+      <br/>
+      <sub>💬 Ask me about · TypeScript · Java · Python · Rust<br/>
+      📫 Reach me · <a href="https://discord.gg/nartforge" style="color:#888888;">discord.gg/nartforge</a><br/>
+      🌐 Web · <a href="https://assyte.dev" style="color:#888888;">assyte.dev</a> · <a href="https://ass.nartforge.com" style="color:#888888;">ass.nartforge.com</a><br/>
+      🎮 Focus · Minecraft plugins · Discord bots · desktop engineering</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<br/>
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████████████
@@ -398,6 +441,44 @@ entirely inside the browser.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
+
+<br/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=TOP+LANGUAGES" alt="top-languages"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assyte&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=10" alt="top-langs"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=ACTIVITY" alt="activity"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=assyte&bg_color=000000&color=CCCCCC&line=888888&point=FFFFFF&area=true&area_color=242424&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="activity-graph"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=TROPHY+CASE" alt="trophy-case"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=assyte&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&row=1" alt="trophies"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/assyte/assyte/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution-snake"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=12&pause=1200&color=666666&center=true&vCenter=true&width=720&lines=THANKS+FOR+STOPPING+BY;EVERY+STAR+POWERS+THE+GRIND;built+with+precision+—+assyte.dev" alt="thanks"/>
 
 <br/>
 
