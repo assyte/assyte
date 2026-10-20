@@ -166,6 +166,8 @@ entirely inside the browser.
 <table align="center">
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/wire-stock.png" width="100%" alt="wire-stock banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/wire-stock" style="color:#FFFFFF;text-decoration:none;">▣ wire-stock</a></b>
       <br/>
       <sub>Desktop inventory management for the electrical supply chain<br/>offline-first · AI-assisted demand forecasting</sub>
@@ -176,6 +178,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/Turborepo-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/nartos-cuzdan.png" width="100%" alt="nartos-cuzdan banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/nartos-cuzdan" style="color:#FFFFFF;text-decoration:none;">▣ nartos-cuzdan</a></b>
       <br/>
       <sub>Personal finance management system<br/>AI-assisted insights · PWA · fully open source</sub>
@@ -188,6 +192,8 @@ entirely inside the browser.
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/nf-gstat.png" width="100%" alt="nf-gstat banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/nf-gstat" style="color:#FFFFFF;text-decoration:none;">▣ nf-gstat</a></b>
       <br/>
       <sub>Cross-game statistics tracker<br/>Rust-powered Tauri desktop application</sub>
@@ -198,6 +204,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/SQLite-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/assyte.dev.png" width="100%" alt="assyte.dev banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/assyte.dev" style="color:#FFFFFF;text-decoration:none;">▣ assyte.dev</a></b>
       <br/>
       <sub>Cinematic personal portfolio and digital headquarters<br/>AMOLED monochrome · 3D block material · bilingual</sub>
@@ -210,6 +218,8 @@ entirely inside the browser.
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/discord-priv-bot.png" width="100%" alt="discord-priv-bot banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/discord-priv-bot" style="color:#FFFFFF;text-decoration:none;">▣ discord-priv-bot</a></b>
       <br/>
       <sub>Premium Discord bot<br/>moderation · guard · registration · logging · reporting</sub>
@@ -219,6 +229,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/EJS-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/owo-nfhunt.png" width="100%" alt="owo-nfhunt banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/owo-nfhunt" style="color:#FFFFFF;text-decoration:none;">▣ owo-nfhunt</a></b>
       <br/>
       <sub>Multi-account OwO bot automation framework<br/>web dashboard · Electron app · encrypted token storage</sub>
@@ -244,6 +256,8 @@ entirely inside the browser.
 <table align="center">
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/asKingdomX.png" width="100%" alt="asKingdomX banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/asKingdomX" style="color:#FFFFFF;text-decoration:none;">▣ asKingdomX</a></b>
       <br/>
       <sub>Premium kingdom management and PvP<br/>territory capture · Crown War · economy · boss system</sub>
@@ -253,6 +267,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/988%20KB-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/asAPI.png" width="100%" alt="asAPI banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/asAPI" style="color:#FFFFFF;text-decoration:none;">▣ asAPI</a></b>
       <br/>
       <sub>Core library powering every NartForge plugin<br/>database abstraction · event system · shared utilities</sub>
@@ -263,6 +279,8 @@ entirely inside the browser.
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/asGiveAway.png" width="100%" alt="asGiveAway banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/asGiveAway" style="color:#FFFFFF;text-decoration:none;">▣ asGiveAway</a></b>
       <br/>
       <sub>Automated giveaway system<br/>crate integration · Discord webhook notifications</sub>
@@ -271,6 +289,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/Paper%201.21%2B-888888?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/asVerifyDC.png" width="100%" alt="asVerifyDC banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/asVerifyDC" style="color:#FFFFFF;text-decoration:none;">▣ asVerifyDC</a></b>
       <br/>
       <sub>Discord verification bridge<br/>whitelist linking · role synchronisation</sub>
@@ -281,6 +301,8 @@ entirely inside the browser.
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/asModeration.png" width="100%" alt="asModeration banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/asModeration" style="color:#FFFFFF;text-decoration:none;">▣ asModeration</a></b>
       <br/>
       <sub>Advanced moderation and punishment management</sub>
@@ -311,6 +333,8 @@ entirely inside the browser.
 <table align="center">
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/NartOS.png" width="100%" alt="NartOS banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/NartOS" style="color:#FFFFFF;text-decoration:none;">▣ NartOS</a></b>
       <br/>
       <sub>Custom Linux-based operating system<br/>optimised for NartForge hosting infrastructure</sub>
@@ -321,6 +345,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/1.9M%20LOC-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/kingdommc-server.png" width="100%" alt="kingdommc-server banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/kingdommc-server" style="color:#FFFFFF;text-decoration:none;">▣ kingdommc-server</a></b>
       <br/>
       <sub>KingdomMC server infrastructure<br/>deployment scripts · management tooling · GLSL shaders</sub>
@@ -332,6 +358,8 @@ entirely inside the browser.
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/nart-licanse.png" width="100%" alt="nart-licanse banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/nart-licanse" style="color:#FFFFFF;text-decoration:none;">▣ nart-licanse</a></b>
       <br/>
       <sub>Central license infrastructure for the whole NartForge product line</sub>
@@ -340,6 +368,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/Licensing-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/nf-token.png" width="100%" alt="nf-token banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/nf-token" style="color:#FFFFFF;text-decoration:none;">▣ nf-token</a></b>
       <br/>
       <sub>Discord token management and authentication microservice</sub>
@@ -350,6 +380,8 @@ entirely inside the browser.
   </tr>
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/as-web.png" width="100%" alt="as-web banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/as-web" style="color:#FFFFFF;text-decoration:none;">▣ as-web</a></b>
       <br/>
       <sub>Personal portfolio and developer website<br/>showcasing the NartForge ecosystem</sub>
@@ -376,6 +408,8 @@ entirely inside the browser.
 <table align="center">
   <tr>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/indirim-yolu.png" width="100%" alt="indirim-yolu banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/indirim-yolu" style="color:#FFFFFF;text-decoration:none;">▣ indirim-yolu</a></b>
       <br/>
       <sub>Discount and deal aggregation platform<br/>price-drop · coupon · promotion tracking</sub>
@@ -384,6 +418,8 @@ entirely inside the browser.
       <img src="https://img.shields.io/badge/Alpha-DDDDDD?style=flat&labelColor=000000&borderColor=2a2a2a"/>
     </td>
     <td width="50%" align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/assyte/assyte/main/projects/AI-Commerce-Engineering-Kit.png" width="100%" alt="AI-Commerce-Engineering-Kit banner"/>
+      <br/>
       <b><a href="https://github.com/assyte/AI-Commerce-Engineering-Kit" style="color:#FFFFFF;text-decoration:none;">▣ AI-Commerce-Engineering-Kit</a></b>
       <br/>
       <sub>AI-powered commerce and engineering automation kit<br/>intelligent pricing · inventory forecasting</sub>
