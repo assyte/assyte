@@ -158,6 +158,7 @@ entirely inside the browser.
 
 
 
+
 ## About
 
 AI Security Engineer focused on LLM security, adversarial ML, and red teaming. Full-stack background across TypeScript, Python, Rust, and Java â€” desktop apps, Discord bots, Minecraft plugins, and security tooling. I build AI security tools and share research openly.
@@ -252,95 +253,13 @@ TypeScript Â· Python Â· Rust Â· Java Â· JavaScript Â· Next.js Â· Nes
 ---
 
 > Open to remote AI Security, Security, and Software Engineering roles.
+<br />
 
-      <img src="https://github-readme-stats.vercel.app/api?username=assyte&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&icon_color=FFFFFF&border_color=242424&count_private=true" alt="stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=assyte&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&icon_color=FFFFFF&border_color=242424&count_private=true&include_all_commits=true" alt="lang-stats"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=assyte&theme=dark&hideBorder=true&stroke=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=888888&currStreakLabel=FFFFFF&dates=666666" alt="streak"/>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/32%20PROJECTS-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="projects"/>
-      &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/TYPESCRIPT%20%2B%20JAVA%20%2B%20PYTHON%20%2B%20RUST-FFFFFF?style=for-the-badge&labelColor=000000&borderColor=242424" alt="langs"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/NARTFORGE%20ECOSYSTEM-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=FFFFFF" alt="nartforge"/>
-      &nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/OPEN%20SOURCE%20%E2%80%94%20MIT-DDDDDD?style=for-the-badge&labelColor=000000&borderColor=2a2a2a" alt="license"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
-
-<br/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=TOP+LANGUAGES" alt="top-languages"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assyte&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=10" alt="top-langs"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=ACTIVITY" alt="activity"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=assyte&bg_color=000000&color=CCCCCC&line=888888&point=FFFFFF&area=true&area_color=242424&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="activity-graph"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=TROPHY+CASE" alt="trophy-case"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=assyte&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&row=1" alt="trophies"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/assyte/assyte/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution-snake"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&lines=NOW+PLAYING" alt="now-playing"/>
-
-<br/>
-
-<a href="https://open.spotify.com/user/31fxfcpobhvzfhwh72clcig7cari">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fxfcpobhvzfhwh72clcig7cari&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interlude=true&bar_color=888888&bar_count=8&redirect=false" width="420" alt="spotify-now-playing"/>
-</a>
-
-<br/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=242424&height=4&width=240" width="240"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=12&pause=1200&color=666666&center=true&vCenter=true&width=720&lines=THANKS+FOR+STOPPING+BY;EVERY+STAR+POWERS+THE+GRIND;built+with+precision+—+assyte.dev" alt="thanks"/>
-
-<br/>
-
-<sub>Monocraft typeface — SIL Open Font License 1.1 · Design language: <a href="https://assyte.dev" style="color:#888888;">assyte.dev</a></sub>
-
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=assyte&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF" width="49%" alt="stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assyte&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=888888" width="49%" alt="top langs" />
 </div>
 
+<br />
+
+</div>
