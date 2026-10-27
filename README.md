@@ -17,7 +17,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=%40assyte" alt="@assyte"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=13&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=720&lines=SYSTEM+ARCHITECT+%E2%80%A2+WEB+ENGINEERING+%E2%80%A2+PLUGIN+DEV+%E2%80%A2+PROJECT+COORDINATOR" alt="title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=13&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=720&lines=AI+SECURITY+%E2%80%A2+SYSTEM+ARCHITECT+%E2%80%A2+WEB+ENGINEERING+%E2%80%A2+PLUGIN+DEV" alt="title"/>
 
 <br/>
 
@@ -51,6 +51,18 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=12&pause=99999&color=666666&center=true&vCenter=true&repeat=false&width=760&lines=%22+rather+than+someone+else%27s+vision+%E2%80%94+i+grow+my+own.%22" alt="quote"/>
+
+
+<br/>
+
+### AI SECURITY FOCUS
+
+> LLM Security . Adversarial ML . Red Teaming . Prompt Injection . Guardrails
+
+<a href="https://github.com/assyte/winsentinel"><img src="https://img.shields.io/badge/WINSENTINEL-111111?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=000000"/></a>
+<a href="https://github.com/assyte/social-cleaner"><img src="https://img.shields.io/badge/SOCIAL--CLEANER-111111?style=for-the-badge&logo=shield&logoColor=FFFFFF&labelColor=000000"/></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=assyte&style=pixel&color=FFFFFF&label=VIEWS" alt="views"/>
 
@@ -533,3 +545,4 @@ entirely inside the browser.
 <sub>Monocraft typeface — SIL Open Font License 1.1 · Design language: <a href="https://assyte.dev" style="color:#888888;">assyte.dev</a></sub>
 
 </div>
+
